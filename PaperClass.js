@@ -3,7 +3,7 @@ class paperClass{
         var options = {
             restitution:0.3,
             friction:0.5,
-            density:3,
+            density:1.2,
             isStatic:false
 
         }
